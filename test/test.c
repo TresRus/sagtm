@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "stag/thread.h"
+#include "thread.h"
 
 int main(int argc, char **argv) {
     test();
