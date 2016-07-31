@@ -5,4 +5,5 @@ Makefile
 *.so
 *.a
 test/stag_test
+install_manifest.txt
 
